@@ -1,0 +1,8 @@
+Der Pfad, über den das Gerät im Drucker angezeigt wird:
+http://msc2020-cthulhu.development-mse.local/deviceservice/deviceservice/devicestartdialog/[Geräte-Guid]
+
+Hersteller: Unbekannt (Zunächst mit Auswahl anlegen und dann bearbeiten)
+Modellname: Unbekannt (auf readonly stellen)
+Seriennummer: eindeutig (z.b. Hostname)
+
+Geräteeigenschaften: Druck-Einheit/Scan-Einheit anstellen
